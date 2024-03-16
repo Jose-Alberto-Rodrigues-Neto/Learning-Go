@@ -34,19 +34,21 @@ Primeiro, crie um arquivo Markdown (.md) dentro da pasta `respostas-"alunos"`. A
 
 Copie o conteúdo acima para dentro do seu arquivo Markdown e coloque a sua resposta. Após isso, abra um pull request!
 
----
+# Questões
 
 ### Primeira Questão:
 
-Escreva um programa que crie um slice de números inteiros com os valores de 1 a 10. Em seguida, utilize um loop para imprimir apenas os números ímpares desse slice.
+Escreva um programa que crie um slice de números inteiros com os valores de 1 a 10. Em seguida, leia os intens do slice e retorne "É par" quando o valor for zero.
 
 ### Segunda Questão:
 
 Crie um programa que simule um menu de opções para um usuário. O menu deve exibir as seguintes opções:
-- Calcular área de um círculo
-- Calcular área de um retângulo
-- Sair
+- Calcular área de um círculo: ao escolher pede as informações do círculo e então cálcula
+- Calcular área de um retângulo: ao escolher pede as informações do retângulo e então cáclcula
+- Sair: termina o programa
 
 ### Terceira Questão:
 
-Crie um programa que armazene nomes de frutas em um array. O usuário deve digitar o nome de uma fruta, e o programa deve verificar se essa fruta está presente no array. Se estiver, exiba uma mensagem dizendo que a fruta está disponível; caso contrário, informe que a fruta não foi encontrada.
+Crie um programa que armazene uma lista de frutas, sendo elas: {banana, maçã, laranja; uva; acerola}. O usuário deve digitar o nome de uma fruta, e o programa deve verificar se essa fruta está presente no array. 
+- Se estiver, exiba uma mensagem dizendo que a fruta está disponível; 
+- Caso contrário, informe que a fruta não foi encontrada.

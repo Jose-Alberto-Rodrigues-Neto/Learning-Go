@@ -1,0 +1,1 @@
+//Escreva um programa que crie um slice de números inteiros com os valores de 1 a 10. Em seguida, leia os intens do slice e retorne "É par" quando o valor for zero.
