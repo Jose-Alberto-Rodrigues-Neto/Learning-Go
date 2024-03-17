@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "slices" //Slices é "um data type" importante em Go, com uma interface mais poderosas para sequencias do que os arrays. (https://go.dev/blog/slices-intro)
+    "slices" //serve para as funções adjacentes relacionadas a slices: como slices.Equal (https://go.dev/blog/slices-intro)
 )
 
 func main() {
